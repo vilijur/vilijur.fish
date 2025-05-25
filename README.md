@@ -1,4 +1,4 @@
 # vilijur.fish
-[fish](https://raw.githubusercontent.com/vilijur/vilijur.fish/refs/heads/main/fish.webp)
+[fish](https://vilijur.fish/fish.webp)
 
-![](https://github.com/vilijur/vilijur.fish/blob/main/fish.webp?raw=true)
+![](https://vilijur.fish/fish.webp)
