@@ -18,3 +18,15 @@
 ![](https://vilijur.fish/fish/smokingfish.jpg)
 
 ![](https://vilijur.fish/fish/wahoo-fish.mp4)
+
+![](https://vilijur.fish/fish/Porcupine-fish-i-think.png)
+
+![](https://vilijur.fish/fish/striated-frogfish.png)
+
+![](https://vilijur.fish/fish/fishtella.jpg)
+
+![](https://vilijur.fish/fish/druggedfish.png)
+
+![](https://vilijur.fish/fish/walking-fish.jpeg)
+
+![](https://vilijur.fish/fish/rapping-fish.png)
