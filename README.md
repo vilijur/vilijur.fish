@@ -17,7 +17,7 @@
 
 ![](https://vilijur.fish/fish/smokingfish.jpg)
 
-![](https://vilijur.fish/fish/wahoo-fish.mp4)
+[![spin](https://vilijur.fish/fish/fishnail.png)](https://vilijur.fish/fish/wahoo-fish.mp4)
 
 ![](https://vilijur.fish/fish/Porcupine-fish-i-think.png)
 
