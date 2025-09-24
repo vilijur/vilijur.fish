@@ -32,3 +32,5 @@
 ![](https://vilijur.fish/fish/rapping-fish.png)
 
 ![](https://vilijur.fish/fish/fih-shirt.png)
+
+![](https://vilijur.fish/fish/funfish.jpg)
