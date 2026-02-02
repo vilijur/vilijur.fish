@@ -36,3 +36,7 @@
 ![](https://vilijur.fish/fish/funfish.jpg)
 
 ![](https://vilijur.fish/fish/tinychungus.jpeg)
+
+![](https://vilijur.fish/fish/fisj-psa.jpg)
+
+![](https://vilijur.fish/fish/fisj-fact.jpg)
